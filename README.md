@@ -1,4 +1,6 @@
-bem-vindo 
+bem-vindo!
+
+meu nome e Licia Alves
 <!--
 **liciaalves/liciaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
